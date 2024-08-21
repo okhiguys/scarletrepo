@@ -24,7 +24,7 @@
             "name": "Мой Теле2",
             "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/95/ce/ee95ced0-7bf4-a992-24c0-c0757289aede/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
             "version": "5.0.0",
-            "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
+            "down": "https://www.dropbox.com/scl/fi/zn6uvc27u4nvhekye2ch2/ru.tele2.selfcare_867914111.ipa?rlkey=sl04e0tr0kpajeg25bei7qpmi&st=ekor46u2&dl=0",
             "category": "Сотовая связь",
             "description": "Мой Теле2 недоступен в не русском AppleID - так что вот тут вы сможете его скачать. Версия 5.0.0"
           }
@@ -40,9 +40,9 @@
       },
       {
         "name": "Умный онлайн (Сбербанк)",
-        "icon": "https://dl.dropbox.com/scl/fi/ttzv2ftse7f9i0yt97pap/.ipa?rlkey=7hmkw5qtzqe5treqlatj20u0g&st=sotlsqkz&dl=0",
+        "icon": "https://ipsw.guru/i/sbol-umniy-online_app.jpeg",
         "version": "15.10.0",
-        "down": "https://ipsw.guru/i/sbol-umniy-online_app.jpeg",
+        "down": "https://dl.dropbox.com/scl/fi/ttzv2ftse7f9i0yt97pap/.ipa?rlkey=7hmkw5qtzqe5treqlatj20u0g&st=sotlsqkz&dl=0",
         "category": "Российские банки",
         "description": "Новейшая версия Сбербанка, была удалена с AppStore"
       },
