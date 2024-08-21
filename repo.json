@@ -1,0 +1,24 @@
+{
+  "META": {
+    "repoName": "OkHiGuyS's Repo",
+    "repoIcon": "https://github.com/okhiguys/scarletrepo/blob/main/scarletic.png?raw=true"
+  },
+  "Тиктоки": [
+    {
+      "name": "TikTok",
+      "version": "31.5.0",
+      "down": "https://dl.dropbox.com/scl/fi/4jcy6yshxtydedou3w7u2/BHTikTokPlus_31.5.0_2.3.ipa?rlkey=r31ura05qrzhc9vr1yd8l68qs&st=606yq1um&dl=0",
+      "category": "Тиктоки",
+      "description": "Это модификация тиктока 'BH Tiktok' на версии 31.5.0"
+    }
+    ],
+    "Российские банки": [
+        {
+            "name": "Сбербанк",
+            "version": "15.3.0",
+            "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
+            "category": "Российские банки",
+            "description": "Сбербанк версии 15.3.0"
+          }
+    ]
+}
