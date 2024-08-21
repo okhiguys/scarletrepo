@@ -1,24 +1,33 @@
 {
+    "name": "OkHiGuyS's Repo",
+    "subtitle": "OkHiGuyS's Repository for RU users",
+    "sourceURL": "https://raw.githubusercontent.com/okhiguys/scarletrepo/main/repo.json",
+    "iconURL": "https://github.com/okhiguys/scarletrepo/blob/main/scarletic.png?raw=true",
+    "headerURL": "https://github.com/okhiguys/scarletrepo/blob/main/header.png?raw=true",
   "META": {
     "repoName": "OkHiGuyS's Repo",
     "repoIcon": "https://github.com/okhiguys/scarletrepo/blob/main/scarletic.png?raw=true"
   },
-  "Тиктоки": [
+  "Тикток": [
     {
       "name": "TikTok",
+      "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/tiktok-icon2.png?raw=true",
       "version": "31.5.0",
       "down": "https://dl.dropbox.com/scl/fi/4jcy6yshxtydedou3w7u2/BHTikTokPlus_31.5.0_2.3.ipa?rlkey=r31ura05qrzhc9vr1yd8l68qs&st=606yq1um&dl=0",
-      "category": "Тиктоки",
+      "bundleID": "com.zhiliaoapp.musically",
+      "category": "Тикток",
       "description": "Это модификация тиктока 'BH Tiktok' на версии 31.5.0"
     }
     ],
-    "Российские банки": [
+    "Сотовая связь": [
         {
-            "name": "Сбербанк",
-            "version": "15.3.0",
+            "name": "Мой Теле2",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/95/ce/ee95ced0-7bf4-a992-24c0-c0757289aede/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+            "version": "5.0.0",
             "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
-            "category": "Российские банки",
-            "description": "Сбербанк версии 15.3.0"
+            "category": "Сотовая связь",
+            "bundleID": "ru.tele2.selfcare",
+            "description": "Мой Теле2 недоступен в не русском AppleID - так что вот тут вы сможете его скачать. Версия 5.0.0"
           }
     ]
 }
