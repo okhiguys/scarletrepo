@@ -27,7 +27,62 @@
             "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
             "category": "Сотовая связь",
             "bundleID": "ru.tele2.selfcare",
+            "appstore": "ru.tele2.selfcare",
             "description": "Мой Теле2 недоступен в не русском AppleID - так что вот тут вы сможете его скачать. Версия 5.0.0"
           }
+    ],
+    "Российские банки": [
+      {
+        "name": "KIDS",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/64/a1/db64a16d-293c-971e-3082-f46ce55b9081/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+        "version": "3.14.0",
+        "down": "https://dl.dropbox.com/scl/fi/zyik361hlntwxt1pz4h0m/com.kidseducation.kids_864769439.ipa?rlkey=1685ykv9hjj9ivh43qnazifmb&st=2tuhksfn&dl=0",
+        "category": "Российские банки",
+        "bundleID": "com.kidseducation.kids",
+        "appstore": "com.kidseducation.kids",
+        "description": "если вам меньше 14-ти то это вам, версия 3.14.0"
+      },
+      {
+        "name": "Умный онлайн (Сбербанк)",
+        "icon": "https://dl.dropbox.com/scl/fi/ttzv2ftse7f9i0yt97pap/.ipa?rlkey=7hmkw5qtzqe5treqlatj20u0g&st=sotlsqkz&dl=0",
+        "version": "15.10.0",
+        "down": "https://ipsw.guru/i/sbol-umniy-online_app.jpeg",
+        "category": "Российские банки",
+        "description": "Новейшая версия Сбербанка, была удалена с AppStore"
+      },
+      {
+        "name": "Т-Банк",
+        "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/tbank.jpeg?raw=true",
+        "version": "6.15",
+        "down": "https://dl.dropbox.com/scl/fi/zyik361hlntwxt1pz4h0m/com.kidseducation.kids_864769439.ipa?rlkey=1685ykv9hjj9ivh43qnazifmb&st=2tuhksfn&dl=0",
+        "category": "Российские банки",
+        "description": "Последняя версия Т-Банк (Тинькофф Банк) выходившая в App Store до удаления в июне 2024 года. (версия 6.15)"
+      },
+      {
+        "name": "Модуль-Банк",
+        "icon": "https://ipsw.guru/i/modulbank_app.png",
+        "version": "6.06.0",
+        "down": "https://dl.dropbox.com/scl/fi/zyik361hlntwxt1pz4h0m/com.kidseducation.kids_864769439.ipa?rlkey=1685ykv9hjj9ivh43qnazifmb&st=2tuhksfn&dl=0",
+        "category": "Российские банки",
+        "description": "Удаленное из App Store приложение Модульбанк для iPhone. (версия 6.06.0)"
+      },
+      {
+        "name": "Газпромбанк клиент онлайн",
+        "icon": "https://ipsw.guru/i/gazprombank_app.jpeg",
+        "version": "2.2.0",
+        "down": "https://dl.dropbox.com/scl/fi/zyik361hlntwxt1pz4h0m/com.kidseducation.kids_864769439.ipa?rlkey=1685ykv9hjj9ivh43qnazifmb&st=2tuhksfn&dl=0",
+        "category": "Российские банки",
+        "description": "Удаленное из App Store приложение Газпромбанк. Приложение Газпромбанка — это все нужные банковские сервисы в вашем мобильном телефоне: информация о картах, переводы, платежи и многое другое. Вы сможете открывать счета и вклады, оформлять и погашать кредиты, менять валюту — и все это без визитов в офис банка. Вход работает только по номеру карты."
+      }
+    ],
+    "Музыка": [
+      {
+        "name": "Spotify++",
+        "icon": "https://ipsw.guru/i/spotify_app.png",
+        "version": "8.9.60 (t2.2.1)",
+        "down": "https://dl.dropbox.com/scl/fi/zyik361hlntwxt1pz4h0m/com.kidseducation.kids_864769439.ipa?rlkey=1685ykv9hjj9ivh43qnazifmb&st=2tuhksfn&dl=0",
+        "category": "Музыка",
+        "description": "Модификация Spotify SpotC++: Нет рекламы, включен поиск, треки не перемешиваются сами по себе, неограниченное число пропусков треков, улучшенное качество воспроизведения, импорт песен из приложения Музыка, включение или отключить обложек плейлиста, включение режима «Сейчас играет шоу»., импорт локальных плейлистов, очистика кеша Spotify. Julioverne давно не обновлял Spotilife, последняя версия Spotify, с которой совместим твик, устарела. Здесь опубликована версия SpotC++ — скомпилированное приложение Spotify, в котором есть твик EeveeSpotify и другие улучшения QOL."
+      }
     ]
 }
