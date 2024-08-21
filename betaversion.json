@@ -16,6 +16,14 @@
     "down": "https://dl.dropbox.com/scl/fi/4jcy6yshxtydedou3w7u2/BHTikTokPlus_31.5.0_2.3.ipa?rlkey=r31ura05qrzhc9vr1yd8l68qs&st=606yq1um&dl=0",
     "category": "Тикток",
     "description": "Это модификация тиктока 'BH Tiktok' на версии 31.5.0"
+  },
+  {
+    "name": "TikTok++ (LRD)",
+    "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/tiktok-icon2.png?raw=true",
+    "version": "30.8.0",
+    "down": "https://dl.dropbox.com/scl/fi/urok83wbq617dqr7vcp2h/TikTok-LRD-30.8.0.ipa?rlkey=r9ho6f71jy5y4za453iqawu2q&st=093a0eph&dl=0",
+    "category": "Тикток",
+    "description": "Это модификация тиктока 'Tiktok LRD' на версии 30.8.0"
   }
   ],
   "Сотовая связь": [
@@ -25,9 +33,37 @@
           "version": "5.0.0",
           "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
           "category": "Сотовая связь",
-          "description": "Мой Теле2 недоступен в не русском AppleID - так что вот тут вы сможете его скачать. Версия 5.0.0"
+          "description": "'Мой Теле2' недоступен для не русских Apple ID. версия 5.0.0"
+        },
+        {
+          "name": "Мой Билайн",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/95/ce/ee95ced0-7bf4-a992-24c0-c0757289aede/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+          "version": "3.104.1",
+          "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
+          "category": "Сотовая связь",
+          "description": "Мой билайн версии 3.104.1"
         }
   ],
+  "VPN": [
+    {
+        "name": "AdGuard VPN",
+        "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/adguard.png?raw=true",
+        "version": "2.3.2",
+        "down": "https://dl.dropbox.com/scl/fi/pdjzenh2kz6kx78a2gc2b/com.adguard.ios.AdGuardVPN_865963737.ipa?rlkey=4b8akee5w7960pwnmx88akpog&st=61o55khb&dl=0",
+        "category": "VPN",
+        "bundleID": "com.adguard.ios.AdGuardVPN",
+        "description": "Отличный бесплатный VPN для обхода блокировок Роскомнадзора. Удален из российского AppStore в июле."
+      },
+      {
+        "name": "Shadowrocket",
+        "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/shadowrocket.png?raw=true",
+        "version": "2.2.54",
+        "down": "https://www.dropbox.com/scl/fi/dqw63as5vm79dnafcyitd/Shadowrocket-2.2.54.ipa?rlkey=1xfyu29049nm3ba7v3htqn7oy&st=nb273zps&dl=0",
+        "category": "VPN",
+        "bundleID": "com.liguangming.Shadowrocket",
+        "description": "Платная утилита для прокси, которую я для вас взял со своего айфона. Версия 2.2.54"
+      }
+],
   "Российские банки": [
     {
       "name": "KIDS",
@@ -41,7 +77,7 @@
       "name": "Умный онлайн (Сбербанк)",
       "icon": "https://ipsw.guru/i/sbol-umniy-online_app.jpeg",
       "version": "15.10.0",
-      "down": "https://dl.dropbox.com/scl/fi/qmno1xn6z3qwtl03h8mdf/umniyonline.ipa?rlkey=4z7ir26pj9qjkctk6mocrwtu3&st=slic4r2o&dl=0",
+      "down": "https://www.dropbox.com/scl/fi/qmno1xn6z3qwtl03h8mdf/umniyonline.ipa?rlkey=4z7ir26pj9qjkctk6mocrwtu3&st=ymox1fha&dl=0",
       "category": "Российские банки",
       "description": "Новейшая версия Сбербанка, была удалена с AppStore"
     },
