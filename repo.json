@@ -26,8 +26,6 @@
             "version": "5.0.0",
             "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
             "category": "Сотовая связь",
-            "bundleID": "ru.tele2.selfcare",
-            "appstore": "ru.tele2.selfcare",
             "description": "Мой Теле2 недоступен в не русском AppleID - так что вот тут вы сможете его скачать. Версия 5.0.0"
           }
     ],
@@ -38,8 +36,6 @@
         "version": "3.14.0",
         "down": "https://dl.dropbox.com/scl/fi/zyik361hlntwxt1pz4h0m/com.kidseducation.kids_864769439.ipa?rlkey=1685ykv9hjj9ivh43qnazifmb&st=2tuhksfn&dl=0",
         "category": "Российские банки",
-        "bundleID": "com.kidseducation.kids",
-        "appstore": "com.kidseducation.kids",
         "description": "если вам меньше 14-ти то это вам, версия 3.14.0"
       },
       {
