@@ -1,0 +1,32 @@
+{
+  "name": "OkHiGuyS's Repo",
+  "subtitle": "OkHiGuyS's Repository for RU users",
+  "sourceURL": "https://raw.githubusercontent.com/okhiguys/scarletrepo/main/repo.json",
+  "iconURL": "https://github.com/okhiguys/scarletrepo/blob/main/scarletic.png?raw=true",
+  "headerURL": "https://github.com/okhiguys/scarletrepo/blob/main/header.png?raw=true",
+  "META": {
+    "repoName": "OkHiGuyS's Repo",
+    "repoIcon": "https://github.com/okhiguys/scarletrepo/blob/main/scarletic.png?raw=true"
+  },
+  "Тикток": [
+  {
+    "name": "BH TikTok",
+    "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/tiktok-icon2.png?raw=true",
+	"header": "https://github.com/okhiguys/scarletrepo/blob/main/header.png?raw=true",
+    "dev": "TikTok Ltd.",
+    "version": "31.5.0",
+    "down": "https://dl.dropbox.com/scl/fi/4jcy6yshxtydedou3w7u2/BHTikTokPlus_31.5.0_2.3.ipa?rlkey=r31ura05qrzhc9vr1yd8l68qs&st=606yq1um&dl=0",
+    "category": "Тикток",
+    "description": "Это модификация тиктока 'BH Tiktok' на версии 31.5.0"
+  },
+  {
+    "name": "TikTok++ (LRD)",
+    "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/tiktok-icon2.png?raw=true",
+	"header": "https://github.com/okhiguys/scarletrepo/blob/main/header.png?raw=true",
+    "dev": "TikTok Ltd.",
+    "version": "30.8.0",
+    "down": "https://dl.dropbox.com/scl/fi/urok83wbq617dqr7vcp2h/TikTok-LRD-30.8.0.ipa?rlkey=r9ho6f71jy5y4za453iqawu2q&st=093a0eph&dl=0",
+    "category": "Тикток",
+    "description": "Это модификация тиктока 'Tiktok LRD' на версии 30.8.0"
+  }
+}
