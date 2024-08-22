@@ -1,0 +1,208 @@
+{
+  "name": "OkHiGuyS's Repo",
+  "subtitle": "OkHiGuyS's Repository for RU users",
+  "sourceURL": "https://raw.githubusercontent.com/okhiguys/scarletrepo/main/repo.json",
+  "iconURL": "https://github.com/okhiguys/scarletrepo/blob/main/scarletic.png?raw=true",
+  "headerURL": "https://github.com/okhiguys/scarletrepo/blob/main/header.png?raw=true",
+  "META": {
+    "repoName": "OkHiGuyS's Repo",
+    "repoIcon": "https://github.com/okhiguys/scarletrepo/blob/main/scarletic.png?raw=true"
+  },
+  "Тикток": [
+  {
+    "name": "BH TikTok",
+    "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/tiktok-icon2.png?raw=true",
+    "dev": "TikTok Ltd.",
+    "version": "31.5.0",
+    "down": "https://dl.dropbox.com/scl/fi/4jcy6yshxtydedou3w7u2/BHTikTokPlus_31.5.0_2.3.ipa?rlkey=r31ura05qrzhc9vr1yd8l68qs&st=606yq1um&dl=0",
+    "category": "Тикток",
+    "description": "Это модификация тиктока 'BH Tiktok' на версии 31.5.0"
+  },
+  {
+    "name": "TikTok++ (LRD)",
+    "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/tiktok-icon2.png?raw=true",
+    "dev": "TikTok Ltd.",
+    "version": "30.8.0",
+    "down": "https://dl.dropbox.com/scl/fi/urok83wbq617dqr7vcp2h/TikTok-LRD-30.8.0.ipa?rlkey=r9ho6f71jy5y4za453iqawu2q&st=093a0eph&dl=0",
+    "category": "Тикток",
+    "description": "Это модификация тиктока 'Tiktok LRD' на версии 30.8.0"
+  }
+  ],
+  "Соц-сети": [
+    {
+      "name": "Вконтакте",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/da/12/efda1246-4648-ec19-e9d1-401ced2ec26e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "dev": "V Kontakte OOO",
+      "version": "7.44",
+      "down": "https://dl.dropbox.com/scl/fi/wwg2z5r1383vibyubxogq/VK_7.44.ipa?rlkey=a07mj81ufavezmt9i8whhyur7&st=c9ahqrr2&dl=0",
+      "category": "Соц-сети",
+      "description": "Удаленное из App Store приложение VK без всяких модификаций. ВКонтакте — это общение, бесплатные звонки, музыка и видео, игры и мини-приложения для любых задач, десятки миллионов людей и безграничные возможности для развлечений, бизнеса и обмена новостями из любой точки мира."
+    },
+    {
+      "name": "Instagram++",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/d3/51/e9d35161-58c1-5ba7-66d1-f51dcae69707/Prod-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "dev": "Instagram, Inc.",
+      "version": "338.0.0",
+      "down": "https://dl.dropbox.com/scl/fi/urok83wbq617dqr7vcp2h/TikTok-LRD-30.8.0.ipa?rlkey=r9ho6f71jy5y4za453iqawu2q&st=093a0eph&dl=0",
+      "category": "Соц-сети",
+      "description": "Добавляет новые функции в приложение Instagram: сохраняйте фото и видео на своё устройство, переключайтесь между отображением сеткой и списком, скрывайте комментарии в ленте, открывайте ссылки внутри Instagram, просматривайте подпись во время увеличения изображения, делитесь фото/видео в других приложениях, делайте репосты, просматривайте точную дату и время загрузки постов."
+    }
+    ],
+  "Сотовая связь": [
+      {
+          "name": "Мой Теле2",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/95/ce/ee95ced0-7bf4-a992-24c0-c0757289aede/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+          "dev": "Tele2 Russia",
+          "version": "5.0.0",
+          "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
+          "category": "Сотовая связь",
+          "description": "'Мой Теле2' недоступен для не русских Apple ID. версия 5.0.0"
+        },
+        {
+          "name": "Мой Билайн",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/d1/dc/04d1dcd4-da7a-e705-b7ef-7db589e420ab/AppIcon-0-0-1x_U007epad-0-0-sRGB-85-220.png/512x512bb.jpg",
+          "dev": "PJSC VimpelCom",
+          "version": "3.104.1",
+          "down": "https://dl.dropbox.com/scl/fi/hj1yg9o7816nf2l3xtsbq/Sberbank-1530.ipa?rlkey=5v2hx3iby51tzlcs2su1f51dy&st=u1pp51y5&dl=0",
+          "category": "Сотовая связь",
+          "description": "Мой билайн версии 3.104.1"
+        }
+  ],
+  "VPN": [
+    {
+        "name": "AdGuard VPN",
+        "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/adguard.png?raw=true",
+        "dev": "Adguard Software Limited",
+        "version": "2.3.2",
+        "down": "https://dl.dropbox.com/scl/fi/pdjzenh2kz6kx78a2gc2b/com.adguard.ios.AdGuardVPN_865963737.ipa?rlkey=4b8akee5w7960pwnmx88akpog&st=61o55khb&dl=0",
+        "category": "VPN",
+        "bundleID": "com.adguard.ios.AdGuardVPN",
+        "description": "Отличный бесплатный VPN для обхода блокировок Роскомнадзора. Удален из российского AppStore в июле."
+      },
+      {
+        "name": "Shadowrocket",
+        "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/shadowrocket.png?raw=true",
+        "dev": "Shadow Launch Technology Limited",
+        "version": "2.2.54",
+        "down": "https://dl.dropbox.com/scl/fi/dqw63as5vm79dnafcyitd/Shadowrocket-2.2.54.ipa?rlkey=1xfyu29049nm3ba7v3htqn7oy&st=nb273zps&dl=0",
+        "category": "VPN",
+        "bundleID": "com.liguangming.Shadowrocket",
+        "description": "Платная утилита для прокси, которую я для вас взял со своего айфона. Версия 2.2.54"
+      },
+      {
+        "name": "1.1.1.1",
+        "icon": "https://play-lh.googleusercontent.com/39xbI_gFcmGEIl6JEAGhJQKv8GBjR_RFyJ6qhrFfA9CUOKZU2clSs7uo81e30zPGtg",
+        "dev": "Cloudflare",
+        "version": "6.24",
+        "down": "https://dl.dropbox.com/scl/fi/r19fiqd25ypx3utxvljlz/one-623.ipa?rlkey=s9buqxv8g4cp4jzidln7mmaq9&st=yv9cpzam&dl=0",
+        "category": "VPN",
+        "bundleID": "com.liguangming.Shadowrocket",
+        "description": "Cloudflare warp"
+      }
+],
+  "Российские банки": [
+    {
+      "name": "KIDS",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/64/a1/db64a16d-293c-971e-3082-f46ce55b9081/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+      "dev": "Vyacheslav Petrukhin",
+      "version": "3.14.0",
+      "down": "https://dl.dropbox.com/scl/fi/zyik361hlntwxt1pz4h0m/com.kidseducation.kids_864769439.ipa?rlkey=1685ykv9hjj9ivh43qnazifmb&st=2tuhksfn&dl=0",
+      "category": "Российские банки",
+      "description": "если вам меньше 14-ти то это вам, версия 3.14.0"
+    },
+    {
+      "name": "Умный онлайн (Сбербанк)",
+      "icon": "https://ipsw.guru/i/sbol-umniy-online_app.jpeg",
+      "dev": "Sberbank PJSC",
+      "version": "15.10.0",
+      "down": "https://dl.dropbox.com/scl/fi/qmno1xn6z3qwtl03h8mdf/umniyonline.ipa?rlkey=4z7ir26pj9qjkctk6mocrwtu3&st=ymox1fha&dl=0",
+      "category": "Российские банки",
+      "description": "Новейшая версия Сбербанка, была удалена с AppStore"
+    },
+    {
+      "name": "Т-Банк",
+      "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/tbank.jpeg?raw=true",
+      "dev": "Tinkoff Bank",
+      "version": "6.15",
+      "down": "https://dl.dropbox.com/scl/fi/qcxiv08jaobhi1y9w62no/tinkoff-t-bank.ipa?rlkey=m0peb98xd3vsxzckemnrcyl6f&st=ii1kourx&dl=0",
+      "category": "Российские банки",
+      "description": "Последняя версия Т-Банк (Тинькофф Банк) выходившая в App Store до удаления в июне 2024 года. (версия 6.15)"
+    },
+    {
+      "name": "Модуль-Банк",
+      "icon": "https://ipsw.guru/i/modulbank_app.png",
+      "dev": "JSC KB ModulBank",
+      "version": "6.06.0",
+      "down": "https://dl.dropbox.com/scl/fi/ef31gl0fyeiuqmyz8yep0/modulbank.ipa?rlkey=vxuc1tvnkp73d0lifar0swqea&st=jmxbl63l&dl=0",
+      "category": "Российские банки",
+      "description": "Удаленное из App Store приложение Модульбанк для iPhone. (версия 6.06.0)"
+    },
+    {
+      "name": "Газпромбанк клиент онлайн",
+      "icon": "https://ipsw.guru/i/gazprombank_app.jpeg",
+      "dev": "PJSC Gazprom",
+      "version": "2.2.0",
+      "down": "https://dl.dropbox.com/scl/fi/vy7qq32spinjl83zgb7q2/Gazprom.ipa?rlkey=eopahr2zdo1hvp79778l56zvq&st=o6qe9kn1&dl=0",
+      "category": "Российские банки",
+      "description": "Удаленное из App Store приложение Газпромбанк. Приложение Газпромбанка — это все нужные банковские сервисы в вашем мобильном телефоне: информация о картах, переводы, платежи и многое другое. Вы сможете открывать счета и вклады, оформлять и погашать кредиты, менять валюту — и все это без визитов в офис банка. Вход работает только по номеру карты."
+    }
+  ],
+  "Игры": [
+    {
+      "name": "Minecraft",
+      "icon": "https://ipsw.guru/i/15487616_app.png",
+      "dev": "Mojang Studios",
+      "version": "1.20.13",
+      "down": "https://dl.dropbox.com/scl/fi/oh498zc9eyegwaq815sxo/com.mojang.minecraftpe-1.20.13-user-hidden-icpda-appdb.ipa?rlkey=7irad4yqje0akzo9902eunnic&st=qp6hl68k&dl=0",
+      "category": "Игры",
+      "description": "Дайте волю воображению и создайте то, что Вам подсказывает собственная фантазия. На ходу создавайте целые миры при помощи портативного издания Minecraft. Портативное издание Minecraft позволяет Вам осуществлять строительство в дороге. С помощью блоков создавайте шедевры в поездке, во время встреч с друзьями, отдыха на природе; возможности - бесконечны. Не ограничивайтесь компьютером, играйте в Minecraft повсюду, куда бы Вы ни направлялись."
+    },
+    {
+      "name": "Geometry Dash",
+      "icon": "https://github.com/okhiguys/scarletrepo/blob/main/ipas/gd.png?raw=true",
+      "dev": "Robtop Games",
+      "version": "2.206",
+      "down": "https://dl.dropbox.com/scl/fi/r19qp5aaaqqg44bsekr6h/geometry.ipa?rlkey=rqkirl4f7uhriazrrpdcqopys&st=glmue1qr&dl=0",
+      "category": "Игры",
+      "description": "'Geometry Dash 3D' - музыкальный ритмичный платформер, в котором вы будете управлять кубическим персонажем, преодолевая различные препятствия на пути к финишу. Вы встретитесь с такими препятствиями, как шипы, порталы, батуты и прочими."
+    },
+    {
+      "name": "PojavLauncher",
+      "icon": "https://ipsw.guru/i/15487616_app.png",
+      "dev": "crystall1nedev github",
+      "version": "2.2",
+      "down": "https://dl.dropbox.com/scl/fi/6ildysocrwwsyvovzf9jc/net.kdt.pojavlauncher-2.2-ios.ipa?rlkey=o77f24duqu11rg89xcnc08ih5&st=gze7fpxi&dl=0",
+      "category": "Игры",
+      "description": "Портативное издание майнкрафт Java"
+    },
+    {
+      "name": "Null's Brawl",
+      "icon": "https://nulls-brawl.com/wp-content/uploads/2022/06/NB-Link.png",
+      "dev": "Null",
+      "version": "56.274",
+      "down": "https://dl.dropbox.com/scl/fi/pv0ts1dcryqfs62lhn0ur/Nulls-Brawl-56.274-iOS.ipa?rlkey=l895jzt19tpc0mc5xfm2h2y73&st=y0uh2jq0&dl=0",
+      "category": "Игры",
+      "description": "Приватный сервер для Brawl Stars от Null"
+    } 
+    ],
+  "Музыка": [
+    {
+      "name": "Spotify++",
+      "icon": "https://ipsw.guru/i/spotify_app.png",
+      "dev": "Spotify",
+      "version": "8.9.60 (t2.2.1)",
+      "down": "https://dl.dropbox.com/scl/fi/sdlngi0q1124vgmd1h4u1/SpotC-.v2.2.1_v8.9.60.ipa?rlkey=snauzvixrjqgqn964hmxuzsth&st=bwhbod3c&dl=0",
+      "category": "Музыка",
+      "description": "Модификация Spotify SpotC++: Нет рекламы, включен поиск, треки не перемешиваются сами по себе, неограниченное число пропусков треков, улучшенное качество воспроизведения, импорт песен из приложения Музыка, включение или отключить обложек плейлиста, включение режима «Сейчас играет шоу»., импорт локальных плейлистов, очистика кеша Spotify. Julioverne давно не обновлял Spotilife, последняя версия Spotify, с которой совместим твик, устарела. Здесь опубликована версия SpotC++ — скомпилированное приложение Spotify, в котором есть твик EeveeSpotify и другие улучшения QOL."
+    },
+    {
+      "name": "Yandex Music Хак",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a5/7d/59/a57d59c3-cf24-ee22-3a40-67a10891c787/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/512x512bb.jpg",
+      "dev": "Direct Cursus Computer Systems Trading",
+      "version": "659",
+      "down": "https://dl.dropbox.com/scl/fi/7yad2ugxck9btv34vw63f/yandex-music.ipa?rlkey=2tw2ap4zxauxfeszq9c0zihsp&st=0qj0va44&dl=0",
+      "category": "Музыка",
+      "description": "Музыкальный сервис со взломом на подписку. Доступно онлайн прослушивание в высоком качестве и загрузка в кэш. Яндекс.Музыка 5.55 | YM.Plus 0.8b - по второй ссылке."
+    }
+  ]
+}
